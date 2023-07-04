@@ -8,7 +8,7 @@ environment:
 
 dependencies:
   async: ^2.10.0
-  http: ^0.13.5
+  http: ^1.1.0
   pool: ^1.5.1
   sse: ^4.1.1
   stream_channel: ^2.1.1
